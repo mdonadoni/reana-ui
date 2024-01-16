@@ -16,6 +16,7 @@
         { "type": "chore", "section": "Chores", "hidden": true }
       ],
       "extra-files": [
+        "Dockerfile",
         {
           "type": "json",
           "path": "reana-ui/package.json",
